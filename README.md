@@ -34,7 +34,7 @@ Expect chaotic good energy, clean code, and the occasional meme-fueled commit me
 
 ## 🤝 Let’s Link:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourname)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ishan-wagh-b17a90298)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
